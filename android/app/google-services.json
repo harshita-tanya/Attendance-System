@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315013517879",
+    "project_id": "attendance-system-955e7",
+    "storage_bucket": "attendance-system-955e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315013517879:android:b177fe6b7bde6254cb65b2",
+        "android_client_info": {
+          "package_name": "com.example.erp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315013517879-qsunsljqtv0ul1kkpfkdgqas8utls9hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZeV7Ifkr5scTIgmGNueUVeNyO2xIxMtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315013517879-qsunsljqtv0ul1kkpfkdgqas8utls9hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
